@@ -6,12 +6,11 @@
 
 ---
 
-## 🚀 Live Preview
+## Application demo
 
 <p align="center">
-  ![AI Crop Doctor Demo](screenshots/demo1.gif)
+  <img src="demo1.gif" width="700"/>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
