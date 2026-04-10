@@ -13,16 +13,6 @@
 </p>
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
@@ -102,27 +92,9 @@ python app.py
 
 ---
 
-## 🎥 Demo
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500"/>
-</p>
 
 ---
 
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github"/>
-  </a>
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"/>
-  </a>
-</p>
 
 ---
 
@@ -150,8 +122,8 @@ MIT License
 
 ## 💡 Author
 
-👨‍💻 **Harshit**
-🚀 AI/ML Developer | Future Innovator
+👨‍💻 **Harshit** **Ankush** **Tanuj**
+🚀 AI/ML Developers | Future Innovator
 
 ---
 
