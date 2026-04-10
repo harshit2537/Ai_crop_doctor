@@ -84,8 +84,8 @@ D --> E[Solution Provided]
 ## ▶️ Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/harshit2537/Ai_crop_doctor/tree/main
+cd Ai_crop_doctor
 pip install -r requirements.txt
 python app.py
 ```
