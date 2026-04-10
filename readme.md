@@ -61,9 +61,6 @@ It uses **Deep Learning (CNN)** to identify plant diseases from images and provi
 project-folder/
 │── model.keras
 │── app.py
-│── notebook.ipynb
-│── static/
-│── templates/
 │── README.md
 ```
 
