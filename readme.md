@@ -1,7 +1,7 @@
 # 🌿 AI Crop Disease Detection System
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=28&center=true&vCenter=true&width=700&lines=AI+Crop+Disease+Detection+System;Deep+Learning+for+Agriculture;Built+by+Harshit+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=28&center=true&vCenter=true&width=700&lines=AI+Crop+Disease+Detection+System;Deep+Learning+for+Agriculture" />
 </p>
 
 ---
