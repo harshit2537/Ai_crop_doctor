@@ -75,7 +75,8 @@ B --> C[Model Prediction]
 C --> D[Disease Detected]
 D --> E[Solution Provided]
 ```
-
+Note: The model performs best on trained crop categories
+such as tomato, potato, and pepper.
 ---
 
 ## ▶️ Installation
